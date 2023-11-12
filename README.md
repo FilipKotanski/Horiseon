@@ -2,7 +2,7 @@
 
 This is a project commissioned by our long-term business customer, the marketing agency Horiseon, with the aim of improving Horiseon's landing page accessibility for search engine optimization.
 
-![Overview](starter/assets/images/overview.png)
+![Overview](assets/images/overview.png)
 
 ## Table of Contents
 - [Deployment](#deployment)
@@ -15,7 +15,7 @@ This is a project commissioned by our long-term business customer, the marketing
 
 ## Deployment
 
- The deployed version of the project can be found [here]().
+ The deployed version of the project can be found [here](https://filipkotanski.github.io/Horiseon/#social-media-marketing).
 
 
 ## Installation and usage
